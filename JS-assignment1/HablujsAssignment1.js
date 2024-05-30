@@ -41,7 +41,7 @@ const person = {
 alert(person.name + " is " + person.age);
 
 // 7. The <button> element should do something when someone clicks on it. Try to fix it!
-// the solution is done using internal script in html file
+// the solution is done using internal script in html file named question7.html
 
 // 8.1. Alert the number of items in an array, using the correct Array property:
 const cars = ["Volvo", "Jeep", "Mercedes"];
